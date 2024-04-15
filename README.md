@@ -16,8 +16,7 @@ Here are a couple of links:
 
 ## Pictures
 
-![Utah Jazz Logo](![utah-jazz-logo](https://github.com/drewfowles/Lesson-5-Research-Topic/assets/157662178/71ddcdd3-1c24-42a2-8886-240b3b864cb0)
-)
+![Utah Jazz Logo]()
 
 ![Philadelphia Eagles Logo]()
 
