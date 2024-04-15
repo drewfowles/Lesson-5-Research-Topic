@@ -16,9 +16,9 @@ Here are a couple of links:
 
 ## Pictures
 
-![Utah Jazz Logo]()
+![Utah Jazz Logo](utah-jazz-logo.jpg)
 
-![Philadelphia Eagles Logo]()
+![Philadelphia Eagles Logo](eagles-logo.webp)
 
 ## Table
 
