@@ -14,7 +14,7 @@ Here are a couple of links:
 - [NBA Standings](https://www.nba.com/standings)
 - [NFL Draft Order](https://www.nfl.com/news/2024-nfl-draft-order-for-all-seven-rounds)
 
-## Pictures are Both Uploaded at the Top
+## Pictures
 
 ![Utah Jazz Logo]()
 
